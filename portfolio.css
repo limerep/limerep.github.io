@@ -1,0 +1,152 @@
+
+body{
+	padding-top: 60px;
+	background-color: rgb(177, 205, 249);
+}
+
+a{
+	color:black;
+	text-decoration: underline;
+}
+
+p{
+	margin: 10px;
+	font-size: 20px;
+}
+
+.container{
+	background-color:rgba(255,255,255,0.2);
+}
+
+.jumbotron{
+	color: #2c3e50;
+	background-color: white;
+
+
+	margin-top: 10px;
+	padding-bottom: 10px;
+	padding-top:10px;
+
+	text-align: left;
+
+	border-color: rgb(177, 205, 249);
+	border-style: solid;
+}
+
+.navbtn{
+	padding-top: 2px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+
+.email-link{
+	text-align: left;
+}
+
+.headline{
+
+	background: rgba(255,255,255,0.4);
+
+
+	border-color: white;
+	border-style: solid;
+	border-radius: 25px;
+
+	text-align: center;
+	font-weight: bold;
+
+	padding-bottom: 10px;
+	padding-right: 60px;
+	padding-left: 60px;
+
+	margin-left: 10%;
+	margin-right: 10%;
+
+}
+
+.title{
+	font-size: 2em;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: 1px 1px 2px white; 
+
+	padding-top: 15px;
+
+}
+
+.subtitle{
+
+}
+
+.description{
+	font-size: 1.5em;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: 1px 1px 2px white; 
+
+	margin-bottom: 40px;
+	
+}
+
+.thumbnail{
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+.float-right{
+	text-align: right;
+	float:right;
+}
+
+.skills{
+	font-size: 2em;
+	font-weight: bold;
+	text-align: left;
+	text-shadow: 1px 1px 2px white; 
+
+	padding-top: 15px;
+
+}
+
+.space
+{
+	margin: 20%;
+}
+
+#gamepad{
+	margin-top: -5%;
+	float:right;
+}
+
+#skills{
+	font-size: .5em;
+	
+}
+
+#img-me{
+	max-width: 75%;
+	max-height: auto;
+	filter:grayscale(100%);
+	margin-bottom: 50px;
+
+}
+
+#center{
+	text-align: center;
+	float: center;
+}
+
+#email{
+
+}
+
+#github{
+
+}
+
+#linkedin{
+
+}
+
+
