@@ -75,7 +75,10 @@ p{
 
 }
 
-.subtitle{
+.aboutMe{
+	background: rgba(255,255,255,0.4);
+	border-color: rgb(177, 205, 249);
+	border-style: solid;
 
 }
 
@@ -127,8 +130,12 @@ p{
 #img-me{
 	max-width: 75%;
 	max-height: auto;
-	filter:grayscale(100%);
+	filter:grayscale(80%);
 	margin-bottom: 50px;
+	margin-top: 15px;
+
+	border-color: rgb(177, 205, 249);
+	border-style: solid;
 
 }
 
